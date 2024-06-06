@@ -15,6 +15,7 @@ Press shift + !
 
 ## HTML tags:
 
+...js
 </closing tag>
 
 - <Doctype html> - Document type
@@ -22,8 +23,11 @@ Press shift + !
 - <head> - Head section(meta contents links)
 - <title> - Title of the page
 - <body> - Body section(heading,paragraph,images,links,heade,footer)
+  ...
 
 ## Headings :
+
+...js
 
 - <h1> ...<h6>
 - <h1>-- Top priority
@@ -32,6 +36,7 @@ Press shift + !
 - <p> - Pragraph
 - <p> contents </p>
 - lorem100
+  ...
 
 ## Links :
 
@@ -48,5 +53,8 @@ alt - alternative text
 
 ## Break the line :
 
+...js
+
 - To break the line we use
   </br> tag
+  ...
