@@ -17,30 +17,36 @@ Press shift + !
 
 </closing tag>
 
-- Document type
-- Root element
-- Head section(meta contents links)
-<title> - Title of the page
-- Body section(heading,paragraph,images,links,heade,footer)
-  Headings :
-  ...
-  <h1>-- Top priority
-  <h6>-- Least priority
-  content
-  Pragraph :
-  contents
+- <Doctype html> - Document type
+- <html> - Root element
+- <head> - Head section(meta contents links)
+- <title> - Title of the page
+- <body> - Body section(heading,paragraph,images,links,heade,footer)
 
-lorem100
-Links :
-To re-direct the specified link given(anchor tag)
+## Headings :
+
+- <h1> ...<h6>
+- <h1>-- Top priority
+- <h6>-- Least priority
+- <h1> content </h1>
+- <p> - Pragraph
+- <p> contents </p>
+- lorem100
+
+## Links :
+
+To re-direct the specified link given(anchor tag) <a>
 Google
 Email
 Phone Number
-Images :
+
+## Images :
+
 image description
 src - source path
 alt - alternative text
-Break the line :
+
+## Break the line :
 
 - To break the line we use
-  tag
+  </br> tag
