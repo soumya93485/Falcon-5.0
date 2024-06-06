@@ -29,10 +29,8 @@ Press shift + !
  It is termed as anchor tag and it creates a hyperlink or link.
  <b>
   It is used to make a text bold.
- <body>
-  It is used to make a text bold.
  <br>
- It is used to make a text bold.
+ It is used to break the line.
  <button>
   It is used to represent a clickable button.
  <div>
