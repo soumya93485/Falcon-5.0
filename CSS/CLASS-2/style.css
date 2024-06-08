@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    background-color: #212121;
+    border: solid yellow 5px;
+    padding: 20px 10px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    color: white;
+    /* margin-left: 20px;
+    margin-top: 20px; */
+    margin: 20px 20px;
+    border: 1px solid white;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 2px 3px 5px;
+}
+
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
