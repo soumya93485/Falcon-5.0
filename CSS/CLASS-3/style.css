@@ -15,7 +15,7 @@
     font-size: 3rem;
   }
   
-  .container {
+  .cont {
     width: 800px;
     background-color: #212121;
     border: 5px solid blue;
@@ -31,6 +31,7 @@
     /* justify-content: space-evenly; */
     justify-content: center;
     align-items: center;
+    
   }
   
   .box {
@@ -55,13 +56,14 @@
     margin: 10px 20px;
   } */
   
-  /* #red {
+   /* #red {
     order: 4;
+
   }
   
   #blue {
     order: 3;
-  } */
+  }  */
   
   /* #yellow {
     order: 2;
