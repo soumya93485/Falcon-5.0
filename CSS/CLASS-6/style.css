@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #212121;
+    height: 100vh;
+}
+.button_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+}
+button{
+    padding: 10px 30px;
+    font-size: 30px;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    border-bottom: 5px solid red;
+    transition: 2s ease-in-out;
+}
+button:hover{
+    background-color: red;
+    transform: scale(1.5);
+    cursor: pointer;
+    transform: rotate(180deg);
+    
+}
