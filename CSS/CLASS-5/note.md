@@ -56,6 +56,8 @@ CSS positioning is a fundamental concept in web development that allows you to c
 
 ```
 
+![](<image (1).png>)
+
 ## Conclusion:
 
 Understanding CSS positioning is essential for creating well-structured and visually appealing web pages. By mastering these basic positioning techniques, you'll have greater control over the layout of your web content. Experiment with different positioning properties and see how they affect the placement of elements on your webpage.
